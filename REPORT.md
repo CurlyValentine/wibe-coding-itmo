@@ -150,7 +150,7 @@
 
 ### Скриншоты работы бота
 
-<!-- Здесь разместите скриншоты -->
+![telegram-cloud-photo-size-2-5465673667930354820-y](https://github.com/user-attachments/assets/66513525-4b49-40f1-bf12-71a4f6aeecc4)
 
 #### 1. Стартовое сообщение
 
