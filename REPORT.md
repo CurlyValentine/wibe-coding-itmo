@@ -150,31 +150,35 @@
 
 ### Скриншоты работы бота
 
-<!-- Здесь разместите скриншоты -->
+![telegram-cloud-photo-size-2-5465673667930354820-y](https://github.com/user-attachments/assets/66513525-4b49-40f1-bf12-71a4f6aeecc4)
 
 #### 1. Стартовое сообщение
 ```
-[СКРИНШОТ: Приветственное сообщение с описанием команд]
+![telegram-cloud-photo-size-2-5465673667930354821-y](https://github.com/user-attachments/assets/cd12eb16-dea4-4d1f-8a12-9096e39f46b5)
+
 ```
 
 #### 2. Добавление задачи
 ```
-[СКРИНШОТ: Процесс добавления задачи с выбором приоритета]
+![telegram-cloud-photo-size-2-5465673667930354847-y](https://github.com/user-attachments/assets/e41555b5-eca0-445a-b973-b82c5aefc000)
+
 ```
 
 #### 3. Список задач
 ```
-[СКРИНШОТ: Отображение задач, сгруппированных по приоритетам]
+![telegram-cloud-photo-size-2-5465673667930354849-y](https://github.com/user-attachments/assets/4ed755ca-142b-472b-a563-8abf3ded956f)
+
 ```
 
 #### 4. Установка напоминания
 ```
-[СКРИНШОТ: Выбор времени напоминания с кнопками]
+![telegram-cloud-photo-size-2-5465673667930354849-y](https://github.com/user-attachments/assets/cb39b05c-1374-49de-81e7-4cca8805db71)
+
 ```
 
 #### 5. Завершение задачи
 ```
-[СКРИНШОТ: Отметка задачи как выполненной]
+![telegram-cloud-photo-size-2-5465673667930354850-y](https://github.com/user-attachments/assets/24a42b84-3dd3-4e67-a6af-c75af00cc1b4)
 ```
 
 ### Видео-демонстрация
