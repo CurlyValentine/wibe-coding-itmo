@@ -1,1 +1,0 @@
-# wibe-coding-itmo
